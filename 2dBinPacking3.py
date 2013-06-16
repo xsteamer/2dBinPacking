@@ -5,7 +5,6 @@ import copy
 # BoxPlacer.DrawContainer() is the only function that uses the pygame module
 import pygame as pg
 
-#Test Change
 
 class BoxClass():
     def __init__(self,w,h):
